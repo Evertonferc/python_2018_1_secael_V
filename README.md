@@ -10,13 +10,11 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
   - [Jupyter NooteBook](https://goo.gl/9KKBnn)
   - [Anaconda, Spyder](https://goo.gl/4LR6Cs)
   - [Atom](https://goo.gl/htkcNq)
-- Utilização de funções e alguns comandos importantes
-  - [Exemplos](/Funções_Comandos.md)
-  - [Exercícios]
-- Declaração e manipulação de varíaveis, strings, tuples, dicionários
-- Operações lógicas e matemáticas
-- Estruturas de repetição
-
+- [Utilização de funções e alguns comandos importantes](/Funções_Comandos.md)
+- [Declaração e manipulação de varíaveis, strings, tuples, dicionários](/Declaração_Manipulação.md)
+- [Operações lógicas e matemáticas](/Operações.md)
+- [Estruturas de repetição](/Estruturas_Repetição)
+- [Desafios para casa](/Exercícios_Extras_1.md)
 
 ### 2º Dia (Quinta-feira) - 24.05.2018
 - Declaração de funções
