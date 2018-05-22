@@ -1,4 +1,4 @@
-# Variáveis, expressões e comandos básicos
+# Variáveis, expressões, operações e comandos básicos
 
 Abrir o prompt de comando digitar `python`
 
