@@ -2,7 +2,7 @@
 
 Este documento será utilizado como auxílio ao curso. Aqui estará presente alguns tópicos abordados, alguns conceitos e os exercícios de fixação.
 
-##Cronograma do Curso
+## Cronograma do Curso
 
 ### 1º Dia (Quarta-feira) - 23.05.2018
 - Motivações de se estudar Python
