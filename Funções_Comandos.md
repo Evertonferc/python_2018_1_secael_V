@@ -59,7 +59,11 @@ temp2 = float(temp)
 temp = float(input('Qual a temperatura em Curitiba?'))
 print(temp, type(temp))
 ```
-
+operadores lógicos
+operadores matematicos
+exemplos
+funções simples
+listas, tuplas, dictionarys, estruturas de repetição
 
 
 
