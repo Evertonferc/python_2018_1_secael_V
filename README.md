@@ -6,8 +6,13 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
 
 ### 1º Dia (Quarta-feira) - 23.05.2018
 - Motivações de se estudar Python
-- Instalação do Python3.5, do PyCharm, uma introdução de com utilizar seus recursos e outras ferramentas
+- Instalação do Python3.5, do PyCharm, Notepad++ uma introdução de com utilizar seus recursos e outras ferramentas
+  - [Jupyter NooteBook](https://goo.gl/9KKBnn)
+  - [Anaconda, Spyder](https://goo.gl/4LR6Cs)
+  - [Atom](https://goo.gl/htkcNq)
 - Utilização de funções e alguns comandos importantes
+  - [Exemplos](/Funções_Comandos.md)
+  - [Exercícios]
 - Declaração e manipulação de varíaveis, strings, tuples, dicionários
 - Operações lógicas e matemáticas
 - Estruturas de repetição
