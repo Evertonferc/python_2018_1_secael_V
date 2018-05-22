@@ -2,7 +2,9 @@
 
 Este documento será utilizado como auxílio ao curso. Aqui estará presente alguns tópicos abordados, alguns conceitos e os exercícios de fixação.
 
-## 1º Dia (Quarta-feira) - 23.05.2018
+##Cronograma do Curso
+
+### 1º Dia (Quarta-feira) - 23.05.2018
 - Motivações de se estudar Python
 - Instalação do Python3.5, do PyCharm, uma introdução de com utilizar seus recursos e outras ferramentas
 - Utilização de funções e alguns comandos importantes
@@ -11,7 +13,7 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
 - Estruturas de repetição
 
 
-## 2º Dia (Quinta-feira) - 24.05.2018
+### 2º Dia (Quinta-feira) - 24.05.2018
 - Declaração de funções
 - Declaração e manipulação de varíaveis, strings, tuplas, dictionary
 - Explicação sobre bibliotecas
@@ -19,10 +21,10 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
 - Algumas manipulações
 - Manipulação de arquivos
 
-## 3º Dia (Sexta-feira) - 25.05.2018
+### 3º Dia (Sexta-feira) - 25.05.2018
 - List comprehension
 - Generators
 - Lambda function
-- Dar uma visão de algumas bibliotecas
+- Visão de algumas bibliotecas
 - Outras coisas interessantes em Python
 
