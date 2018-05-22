@@ -10,8 +10,7 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
   - [Jupyter NooteBook](https://goo.gl/9KKBnn)
   - [Anaconda, Spyder](https://goo.gl/4LR6Cs)
   - [Atom](https://goo.gl/htkcNq)
-- [Variáveis, expressões e comandos básicos](/Funções_Comandos.md)
-- [Operações lógicas e matemáticas](/Operações.md)
+- [Variáveis, expressões, operações e comandos básicos](/Funções_Comandos.md)
 - [Estruturas de repetição](/Estruturas_Repetição)
 - [Desafios para casa](/Exercícios_Extras_1.md)
 
