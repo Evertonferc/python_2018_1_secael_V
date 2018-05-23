@@ -59,7 +59,50 @@ temp2 = float(temp)
 temp = float(input('Qual a temperatura em Curitiba?'))
 print(temp, type(temp))
 ```
-operadores lógicos
+## Operadores lógicos
+Os operadores lógicos são `> < >= <= == !=`
+Detalhe no `!=` porque normalmente é diferente de outras linguagens
+
+Exemplos
+```
+a = 3
+b = 4
+c = a < b   # c recebe o valor da comparação a < b
+d = a > b   # d recebe o valor da comparação a > b
+e = a == b  # e recebe o valor da comparação a == b
+
+print("Valor de c: ", c)
+print("Valor de d: ", d)
+print("Valor de e: ", e)
+```
+Operadores Booleanos `or, and, not`
+```
+A = True
+B = False
+print ("Valor de A and B: ", A and B)
+```
+Operadores matemáticos `+ - * / ** // %`
+`/` sempre volta um float
+`//`divisao inteira
+`%`
+
+Exemplos
+```
+resto = 11 % 3
+
+quadrado = 7 ** 2
+cubo = 2 ** 3
+
+```
+### Calcular a 
+```
+
+```
+
+```
+
+```
+
 operadores matematicos
 exemplos
 funções simples
