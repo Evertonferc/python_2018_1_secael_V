@@ -10,17 +10,15 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
   - [Jupyter NooteBook](https://goo.gl/9KKBnn)
   - [Anaconda, Spyder](https://goo.gl/4LR6Cs)
   - [Atom](https://goo.gl/htkcNq)
-- [Variáveis, expressões, operações e comandos básicos](/Comandos_basicos.md)
-- [Estruturas de repetição](/Estruturas_Repetição)
+- Variáveis, expressões, operações e comandos básicos
 - [Desafios para casa](/Exercícios_Extras_1.md)
 
 ### 2º Dia (Quinta-feira) - 24.05.2018
-- Declaração de funções
-- Declaração e manipulação de varíaveis, strings, tuplas, dictionary
-- Explicação sobre bibliotecas
+- Estruturas de repetição
+- Tuplas, dicionários
 - Instalação de NumPy e PyPlot
-- Algumas manipulações
 - Manipulação de arquivos
+- Declaração de funções
 
 ### 3º Dia (Sexta-feira) - 25.05.2018
 - List comprehension
