@@ -21,6 +21,7 @@ Este documento será utilizado como auxílio ao curso. Aqui estará presente alg
 - Declaração de funções
 
 ### 3º Dia (Sexta-feira) - 25.05.2018
+- Generators
 - List comprehension
 - Generators
 - Lambda function
