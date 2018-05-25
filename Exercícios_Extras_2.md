@@ -4,21 +4,6 @@ Armazenar numa variavel, como str, uma lista de animais. Criar uma lista e coloc
 
 1 – Escreva uma função que conta a quantidade de vogais em um
 texto e armazena tal quantidade em um dicionário, onde a
-chave é a vogal considerada.]
-
-def fatorial(n):
-    i = 1
-    while n > 1:
-        i = i*n
-        n -= 1
-    return i
-n = int(input("entre com um numero: "))
-print(fatorial(n))
-
-https://www.w3resource.com/python-exercises/list/
-
-1 – Escreva uma função que conta a quantidade de vogais em um
-texto e armazena tal quantidade em um dicionário, onde a
 chave é a vogal considerada.
 
 2 - Sorteie 20 inteiros entre 1 e 100 numa lista. Armazene os números pares na lista PAR e os números impares na lista IMPAR. Imprima as tres listas
@@ -30,3 +15,7 @@ Obs: cuidado com as maiúsculas, minúsculas e com os caracteres especiais (, . 
 4 - Seja o mesmo texto acima. Calcule quantas palavras possuem uma das letras 'python' e que tenham mais de 4 caracteres. 
 
 obs: Não se esqueça de transformar maiúculas para minúsculas e de remover os caracteres especiais
+
+5 - Pedir um número e calcular o fatorial dele
+    - a) Defina uma função e chame-a
+    - b) Procure uma função que faça fatorial
