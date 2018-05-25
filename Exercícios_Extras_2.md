@@ -17,5 +17,7 @@ Obs: cuidado com as maiúsculas, minúsculas e com os caracteres especiais (, . 
 obs: Não se esqueça de transformar maiúculas para minúsculas e de remover os caracteres especiais
 
 5 - Pedir um número e calcular o fatorial dele
-    - a) Defina uma função e chame-a
-    - b) Procure uma função que faça fatorial
+ - a) Defina uma função e chame-a
+ - b) Procure uma função que faça fatorial
+    
+6 - Crie um programa que leia o nome de 4 alunos e sorteie entre esse alunos um vencedor. Imprima o numero sorteado e o nome do vencedor na tela
